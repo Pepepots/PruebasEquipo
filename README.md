@@ -1,4 +1,12 @@
 # Pruebas
-Chicos les dejo una pequeña prueba para esta semana cada uno tendra un div con el id de su nombre adentro crear una etiqueta p con un Hola mundo
 
-## si tienen dudas pregunten me 
+Chicos les dejo una pequeña prueba para esta semana
+
+## Tareas
+
+* Crear una etiqueta p con hola mundo dentro de el div con su nombre
+* hacer el pull request 
+
+
+
+
